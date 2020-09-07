@@ -3,8 +3,8 @@
   
 <suite name="AllTests" verbose="1" >
   <test thread-count="1" name="all" >
-      <parameter name="tag1" value="HuManIty111"/>
-      <parameter name="tag2" value="SIDA111"/>
+      <parameter name="tag1" value="HuManIty"/>
+      <parameter name="tag2" value="SIDA"/>
         <classes>
            <class name="tests.FindArticlesByPopularTagTest" />
         </classes>
